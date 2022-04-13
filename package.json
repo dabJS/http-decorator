@@ -1,6 +1,6 @@
 {
   "name": "@dabjs/http-decorators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The http decorators module from dabJS",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -39,6 +39,7 @@
   },
   "homepage": "https://github.com/dabJS/http-decorator#readme",
   "dependencies": {
+    "joi": "^17.6.0",
     "node": "^17.7.2",
     "rimraf": "^3.0.2"
   },
